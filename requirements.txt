@@ -1,0 +1,2 @@
+# Required to run the hosted Python API.
+fastapi>=0.117.1
